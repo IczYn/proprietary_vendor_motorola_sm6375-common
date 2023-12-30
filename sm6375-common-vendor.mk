@@ -1077,7 +1077,6 @@ PRODUCT_PACKAGES += \
     QtiTelephony \
     QtiTelephonyService \
     WfdService \
-    ims \
     qcrilmsgtunnel \
     WfdCommon \
     tcmclient \
